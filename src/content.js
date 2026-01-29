@@ -46,12 +46,12 @@ export const weddingData = {
     },
     story: {
         title: "Our Story",
-        text: "It all started with a simple hello that turned into an endless conversation. From shared dreams to building a future together, our journey has been nothing short of magical. We invite you to be a part of our beautiful beginning."
+        text: "It all started with a simple hello that turned into an endless conversation. From shared dreams to building a future together, our journey has been nothing short of magical."
     },
     gallery: {
         photos: [],
         googleDrive: "", // Paste your Google Drive/Photos folder link here
-        videoLink: "", // Add Google Drive video link here. If empty, "Coming Soon" will be shown.
+        videoLink: "https://drive.google.com/file/d/18IH3RYeXF7oTuPdaUOh4DPmIhkCXBak2/view?usp=drive_link", // Add Google Drive video link here. If empty, "Coming Soon" will be shown.
         videoPlaceholderText: "Pre-wedding Film Coming Soon"
     }
 };
